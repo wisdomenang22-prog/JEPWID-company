@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wisdomenang22-prog.github.io/JEPWID-company/sitemap.xml
